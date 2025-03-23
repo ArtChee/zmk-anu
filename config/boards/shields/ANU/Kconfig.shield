@@ -5,4 +5,4 @@
  #
 
 config ANU
-def_bool $(shields_list_contains,anu)
+    def_bool $(shields_list_contains,anu)
