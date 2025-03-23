@@ -1,0 +1,8 @@
+ #
+ # Copyright (c) 2020 The ZMK Contributors
+ #
+ # SPDX-License-Identifier: MIT
+ #
+
+config ANU
+def_bool $(shields_list_contains,anu)

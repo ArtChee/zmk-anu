@@ -1,0 +1,8 @@
+file_format: "1"
+id: ANU
+name: ANU 
+type: shield
+url: https://github.com/aroum/anu
+requires: [pro_micro]
+features:
+  - keys
